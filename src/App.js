@@ -24,19 +24,19 @@ function App() {
                   <td>
                     <b>Microchip number</b>
                   </td>{" "}
-                  <td>941010000775883</td>
+                  <td>756098060034414</td>
                 </tr>{" "}
                 <tr>
                   <td>
                     <b>Sex</b>
                   </td>{" "}
-                  <td>FEMALE</td>
+                  <td>MALE</td>
                 </tr>{" "}
                 <tr>
                   <td>
                     <b>Date of birth</b>
                   </td>{" "}
-                  <td>10/10/2022</td>
+                  <td>15/06/2022</td>
                 </tr>
               </tbody>
             </table>
@@ -51,7 +51,7 @@ function App() {
                   <td>
                     <b>Report date</b>
                   </td>{" "}
-                  <td>24/03/2023</td>
+                  <td>02/01/2023</td>
                 </tr>{" "}
                 <tr>
                   <td>
