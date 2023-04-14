@@ -179,7 +179,51 @@ tr {
 }
 
 .credentials-div {
- 
+
+  width:75%
+}
+}
+
+@media screen and (min-width: 360px) and (max-width: 375px) {
+  .register-box-body {
+      width: 75%;
+}
+
+.credentials-div {
+
+  width:75%
+}
+}
+
+@media screen and (min-width: 540px) and (max-width: 550px) {
+  .register-box-body {
+      width: 75%;
+}
+
+.credentials-div {
+
+  width:75%
+}
+}
+
+@media screen and (min-width: 280px) and (max-width: 290px) {
+  .register-box-body {
+      width: 65%;
+}
+
+.credentials-div {
+
+  width:75%
+}
+}
+
+@media screen and (min-width: 240px) and (max-width: 250px) {
+  .register-box-body {
+      width: 75%;
+}
+
+.credentials-div {
+
   width:75%
 }
 }
