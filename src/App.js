@@ -1,6 +1,6 @@
 import logo from "./logo-grey.png";
 import "./App.css";
-import taco from "./taco.pdf";
+import taco from "./tacoFinal.pdf";
 
 function App() {
   return (
